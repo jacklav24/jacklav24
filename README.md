@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacklav24
-- 👀 I’m interested in CS, mainly the algorithm and problem solving side
-- 🌱 I’m currently learning Java at School, and HTML/CSS/JavaScript through the Odin Project
+- 👀 I’m interested in CS, mainly the algorithm and problem solving side. I also like data/data analytics.
+- 🌱 I’m currently learning Java at School, and HTML/CSS/JavaScript through the Odin Project, and working on low-level python/pandas data analysis.
 
 
 <!---
