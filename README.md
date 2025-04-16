@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Mathematics, and Statistics
 - 🌱 I’m currently learning Java/Python at School, and HTML/CSS/JavaScript through the Odin Project, and working on low-level python/pandas data analysis.
 
-# Things I have experience with (so far):
+## Things I have experience with (so far):
 - Java
 - Python
 - HTML/CSS/JavaScript
