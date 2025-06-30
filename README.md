@@ -16,7 +16,13 @@
 - This is a system which takes a player's game logs, merged with opposing teams' defensive stats, to train a few machine learning models and make predictions for point totals.
 - Just recently, I've built it from a simple jupyter notebook into a full stack application, with React frontend, and FastAPI python backend!
 
+### Unpopular Music Matcher
+- A Jupyter notebook project using KMeans, and PCA dimensionality reduction.
+- Recommends songs similar to an inputted track using fuzzy matching for user input and PCA cluster visualization.
+- Uses cosine similarity and custom feature weighting for better musical relevance.
+
 ### F1 Data Anaylsis
 - My first real data project from a couple years ago
 - Some crude and basic visualization and tables drawn from a large kaggle dataset.
 - I hope to revisit this soon, to really build it out a lot more.
+
