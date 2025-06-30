@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacklav24
 - 👀 I’m interested in Data Science, Mathematics, and Statistics
-- 🌱 I’m currently learning Java/Python at School, and HTML/CSS/JavaScript through the Odin Project, and working on low-level python/pandas data analysis.
+- 🌱 I’m currently building full-stack ML apps (FastAPI + React), doing in-depth data analysis with Python and pandas, and exploring clustering, recommendation systems, and sports analytics
 
 ### Things I have experience with (so far):
 - Java
